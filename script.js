@@ -29,9 +29,9 @@ let topPipeImg;
 let bottomPipeImg;
 
 // physics in which pipe moves not bird
-let velocityX = -4; // negative because pipes moving left
+let velocityX = -3; // negative because pipes moving left
 let velocityY = 0;  // bird jump speed
-let gravity = 0.6; //
+let gravity = 0.5; //
 let gameOver = false;
 
 let score = 0;
